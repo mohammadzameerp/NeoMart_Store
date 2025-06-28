@@ -77,3 +77,14 @@ backend
 ├── pom.xml
 └── ...
 ```
+# UI ScreenShots
+## Home page
+![image](https://github.com/user-attachments/assets/5f419ad0-b4e3-41f7-a156-aa6e384eef3b)
+## Register
+![image](https://github.com/user-attachments/assets/7c41ee30-de2c-4ba7-827e-13eb3f249750)
+## Login
+![image](https://github.com/user-attachments/assets/bbb116db-dc5e-455e-911a-6145e4a4e880)
+## Product Search
+![image](https://github.com/user-attachments/assets/2d69126c-abe0-4e0c-ad68-0250d3c6a681)
+
+
